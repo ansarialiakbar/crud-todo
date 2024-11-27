@@ -27,7 +27,7 @@ Mongoose: For database interaction and schema definition.
 1. Clone the repository:
 
 ```````````````````````
-git clone https://github.com/your-username/crud-to-do.git
+git clone https://github.com/ansarialiakbar/crud-to-do.git
 cd crud-to-do
 `````````````````
 
